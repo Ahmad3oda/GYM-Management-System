@@ -1,5 +1,5 @@
 ## GYM Management System - Using OOP in Java
------------------------
+
 # Overview
 This is a simple gym/club management system implemented in Java using Object-Oriented Programming (OOP) principles. 
 The system is designed to manage three types of users: admin, coach, and customer. Each user type has specific functionalities and access levels within the system.
@@ -12,3 +12,5 @@ The system is designed to manage three types of users: admin, coach, and custome
 - The 'Main' class initializes the system and handles user interactions.
 - Users can log in based on their roles (admin, coach, or customer).
 - Each user type has specific options and functionalities.
+ ---------
+- For further understanding, consider watching the provided [video](https://www.facebook.com/100005382192758/videos/688375146282760/). 
